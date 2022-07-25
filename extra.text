@@ -1,0 +1,31 @@
+<div class="container habiba">
+  <div class="row">
+    <div class="col col-md-3 h-100 hridoy">
+      <img src="e-school-resources/ICON/book.png" class="ripa" alt="">
+      <h3></h3>
+      <p></p>
+    </div>
+
+
+    <div class="col-md-3 hridoy">
+      <img src="e-school-resources/ICON/Student.png" class="ripa" alt="">
+      <h3>150+ Topic</h3>
+      <p></p>
+    </div>
+
+
+    <div class="col-md-3 hridoy h-100">
+      <img src="e-school-resources/ICON/Test.png" class="ripa" alt="">
+      <h3></h3>
+      <p></p>
+    </div>
+
+
+    <div class="col-md-3 hridoy">
+      <img src="e-school-resources/ICON/Students.png" class="ripa" alt="">
+      <h3></h3>
+      <p></p>
+    </div>
+
+
+  </div>
